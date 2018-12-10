@@ -211,7 +211,6 @@
   year={2017}
 }
 
-%21
 @article{gorokhovskiy2017rus,
   title={Поиск оптимальных параметров вероятностного алгоритма повышения пространсвенного разрешения мультиспектрльных спутниковых изображений},
   author={Гороховский, К.Ю. and Игнатьев, В.Ю. and Мурынин, А.Б. and Ракова, К.О.},
@@ -222,7 +221,7 @@
   publisher={Федеральное государственное унитарное предприятие Академический научно-издательский, производственно-полиграфический и книгораспространительский центр Наука}
 }
 
-%22
+
 @InProceedings{burger2012image,
   author       = {Burger, Harold C and Schuler, Christian J and Harmeling, Stefan},
   title        = {Image denoising: Can plain neural networks compete with BM3D?},
@@ -232,7 +231,6 @@
   organization = {IEEE},
 }
 
-%23
 @InProceedings{schuler2013machine,
   author    = {Schuler, Christian J and Christopher Burger, Harold and Harmeling, Stefan and Scholkopf, Bernhard},
   title     = {A machine learning approach for non-blind image deconvolution},
@@ -241,7 +239,6 @@
   pages     = {1067--1074},
 }
 
-%24
 @Article{dong2016image,
   author    = {Dong, Chao and Loy, Chen Change and He, Kaiming and Tang, Xiaoou},
   title     = {Image super-resolution using deep convolutional networks},
@@ -252,7 +249,7 @@
   pages     = {295--307},
   publisher = {IEEE},
 }
- %25
+
 @InProceedings{johnson2016perceptual,
   author       = {Johnson, Justin and Alahi, Alexandre and Fei-Fei, Li},
   title        = {Perceptual losses for real-time style transfer and super-resolution},
@@ -261,3 +258,5 @@
   pages        = {694--711},
   organization = {Springer},
 }
+
+@Comment{jabref-meta: databaseType:bibtex;}
